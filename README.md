@@ -1,7 +1,6 @@
 # sql-internship-task1
 
-# Library Database Design
-
+# Library
 This repo contains:
 - SQL script to create tables for Library system
 - ER diagram
